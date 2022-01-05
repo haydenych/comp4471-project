@@ -1,0 +1,179 @@
+Category dog, Epoch1, d1=0.425, d2=0.355 g=3.113
+Category dog, Epoch2, d1=0.538, d2=0.116 g=3.648
+Category dog, Epoch3, d1=0.585, d2=0.266 g=2.864
+Category dog, Epoch4, d1=0.625, d2=0.466 g=2.692
+Category dog, Epoch5, d1=0.597, d2=0.560 g=2.062
+
+>Accuracy real: 75%, fake: 91%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch6, d1=0.561, d2=0.608 g=1.050
+Category dog, Epoch7, d1=0.294, d2=0.548 g=2.420
+Category dog, Epoch8, d1=0.550, d2=0.494 g=1.459
+Category dog, Epoch9, d1=0.609, d2=0.529 g=1.067
+Category dog, Epoch10, d1=0.995, d2=0.603 g=1.701
+
+>Accuracy real: 79%, fake: 93%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch11, d1=0.244, d2=0.383 g=1.765
+Category dog, Epoch12, d1=0.552, d2=0.531 g=1.893
+Category dog, Epoch13, d1=0.538, d2=0.622 g=1.507
+Category dog, Epoch14, d1=0.722, d2=0.594 g=1.612
+Category dog, Epoch15, d1=0.477, d2=0.281 g=3.343
+
+>Accuracy real: 75%, fake: 64%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch16, d1=0.517, d2=0.547 g=1.699
+Category dog, Epoch17, d1=0.422, d2=0.443 g=1.762
+Category dog, Epoch18, d1=0.663, d2=0.560 g=1.560
+Category dog, Epoch19, d1=0.347, d2=0.329 g=1.755
+Category dog, Epoch20, d1=0.715, d2=0.458 g=1.628
+
+>Accuracy real: 65%, fake: 91%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch21, d1=0.520, d2=0.543 g=1.166
+Category dog, Epoch22, d1=0.620, d2=0.504 g=1.593
+Category dog, Epoch23, d1=0.339, d2=0.457 g=1.796
+Category dog, Epoch24, d1=0.425, d2=0.418 g=1.769
+Category dog, Epoch25, d1=0.412, d2=0.525 g=1.532
+
+>Accuracy real: 77%, fake: 83%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch26, d1=0.557, d2=0.469 g=1.508
+Category dog, Epoch27, d1=0.572, d2=0.270 g=1.875
+Category dog, Epoch28, d1=0.445, d2=0.224 g=2.274
+Category dog, Epoch29, d1=0.465, d2=0.438 g=1.751
+Category dog, Epoch30, d1=0.537, d2=0.455 g=1.768
+
+>Accuracy real: 57%, fake: 93%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch31, d1=0.466, d2=0.376 g=1.760
+Category dog, Epoch32, d1=0.554, d2=0.599 g=1.476
+Category dog, Epoch33, d1=0.219, d2=0.430 g=2.101
+Category dog, Epoch34, d1=0.453, d2=0.582 g=1.879
+Category dog, Epoch35, d1=0.336, d2=0.492 g=2.259
+
+>Accuracy real: 75%, fake: 79%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch36, d1=0.773, d2=0.353 g=1.786
+Category dog, Epoch37, d1=0.348, d2=0.580 g=2.151
+Category dog, Epoch38, d1=0.519, d2=0.421 g=1.906
+Category dog, Epoch39, d1=0.402, d2=0.567 g=1.856
+Category dog, Epoch40, d1=0.422, d2=0.706 g=1.571
+
+>Accuracy real: 71%, fake: 69%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch41, d1=0.481, d2=0.589 g=1.858
+Category dog, Epoch42, d1=0.695, d2=0.460 g=1.762
+Category dog, Epoch43, d1=0.428, d2=0.362 g=1.732
+Category dog, Epoch44, d1=0.406, d2=0.614 g=1.917
+Category dog, Epoch45, d1=0.722, d2=0.479 g=1.593
+
+>Accuracy real: 71%, fake: 76%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch46, d1=0.589, d2=0.465 g=1.801
+Category dog, Epoch47, d1=0.716, d2=0.531 g=1.756
+Category dog, Epoch48, d1=0.593, d2=0.543 g=1.837
+Category dog, Epoch49, d1=0.464, d2=0.518 g=1.541
+Category dog, Epoch50, d1=0.379, d2=0.402 g=1.693
+
+>Accuracy real: 79%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch51, d1=0.762, d2=0.526 g=1.414
+Category dog, Epoch52, d1=0.551, d2=0.448 g=1.592
+Category dog, Epoch53, d1=0.601, d2=0.552 g=1.419
+Category dog, Epoch54, d1=0.552, d2=0.337 g=1.773
+Category dog, Epoch55, d1=0.653, d2=0.525 g=1.599
+
+>Accuracy real: 65%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch56, d1=0.753, d2=0.557 g=2.032
+Category dog, Epoch57, d1=0.700, d2=0.409 g=1.766
+Category dog, Epoch58, d1=0.478, d2=0.677 g=1.597
+Category dog, Epoch59, d1=0.599, d2=0.815 g=1.839
+Category dog, Epoch60, d1=0.412, d2=0.521 g=1.501
+
+>Accuracy real: 75%, fake: 84%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch61, d1=0.471, d2=0.554 g=1.531
+Category dog, Epoch62, d1=0.496, d2=0.558 g=1.573
+Category dog, Epoch63, d1=0.672, d2=0.525 g=1.690
+Category dog, Epoch64, d1=0.522, d2=0.466 g=1.370
+Category dog, Epoch65, d1=0.386, d2=0.818 g=2.209
+
+>Accuracy real: 51%, fake: 91%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch66, d1=0.613, d2=0.360 g=1.569
+Category dog, Epoch67, d1=0.452, d2=0.594 g=1.718
+Category dog, Epoch68, d1=0.567, d2=0.542 g=1.277
+Category dog, Epoch69, d1=0.631, d2=0.444 g=1.539
+Category dog, Epoch70, d1=0.526, d2=0.463 g=1.431
+
+>Accuracy real: 73%, fake: 69%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch71, d1=0.476, d2=0.539 g=1.365
+Category dog, Epoch72, d1=0.519, d2=0.434 g=1.618
+Category dog, Epoch73, d1=0.819, d2=0.530 g=1.461
+Category dog, Epoch74, d1=0.627, d2=0.593 g=1.575
+Category dog, Epoch75, d1=0.475, d2=0.489 g=1.412
+
+>Accuracy real: 76%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch76, d1=0.427, d2=0.576 g=1.526
+Category dog, Epoch77, d1=0.737, d2=0.616 g=1.459
+Category dog, Epoch78, d1=0.535, d2=0.477 g=1.676
+Category dog, Epoch79, d1=0.531, d2=0.410 g=1.279
+Category dog, Epoch80, d1=0.759, d2=0.478 g=1.597
+
+>Accuracy real: 60%, fake: 87%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch81, d1=0.644, d2=0.573 g=1.627
+Category dog, Epoch82, d1=0.518, d2=0.394 g=1.480
+Category dog, Epoch83, d1=0.538, d2=0.476 g=1.356
+Category dog, Epoch84, d1=0.784, d2=0.514 g=1.453
+Category dog, Epoch85, d1=0.514, d2=0.424 g=1.492
+
+>Accuracy real: 65%, fake: 87%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch86, d1=0.562, d2=0.455 g=1.474
+Category dog, Epoch87, d1=0.444, d2=0.660 g=1.395
+Category dog, Epoch88, d1=0.646, d2=0.482 g=1.525
+Category dog, Epoch89, d1=0.471, d2=0.438 g=1.455
+Category dog, Epoch90, d1=0.400, d2=0.625 g=1.473
+
+>Accuracy real: 77%, fake: 65%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch91, d1=0.662, d2=0.460 g=1.571
+Category dog, Epoch92, d1=0.574, d2=0.535 g=1.402
+Category dog, Epoch93, d1=0.468, d2=0.567 g=1.477
+Category dog, Epoch94, d1=0.623, d2=0.568 g=1.449
+Category dog, Epoch95, d1=0.443, d2=0.449 g=1.525
+
+>Accuracy real: 72%, fake: 77%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category dog, Epoch96, d1=0.524, d2=0.449 g=1.514
+Category dog, Epoch97, d1=0.622, d2=0.558 g=1.509
+Category dog, Epoch98, d1=0.510, d2=0.534 g=1.663
+Category dog, Epoch99, d1=0.580, d2=0.496 g=1.493
+Category dog, Epoch100, d1=0.496, d2=0.456 g=1.341
+
+>Accuracy real: 78%, fake: 77%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.

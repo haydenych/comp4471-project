@@ -1,0 +1,179 @@
+Category ship, Epoch1, d1=0.200, d2=0.325 g=5.251
+Category ship, Epoch2, d1=0.289, d2=0.099 g=3.379
+Category ship, Epoch3, d1=0.769, d2=0.619 g=1.207
+Category ship, Epoch4, d1=0.522, d2=0.588 g=1.429
+Category ship, Epoch5, d1=0.717, d2=0.652 g=0.964
+
+>Accuracy real: 52%, fake: 79%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch6, d1=0.656, d2=0.765 g=1.051
+Category ship, Epoch7, d1=0.752, d2=0.768 g=0.975
+Category ship, Epoch8, d1=0.627, d2=0.627 g=0.913
+Category ship, Epoch9, d1=0.685, d2=0.698 g=1.293
+Category ship, Epoch10, d1=0.427, d2=0.797 g=1.627
+
+>Accuracy real: 52%, fake: 20%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch11, d1=0.286, d2=0.552 g=1.394
+Category ship, Epoch12, d1=0.637, d2=0.558 g=1.256
+Category ship, Epoch13, d1=0.330, d2=0.540 g=1.517
+Category ship, Epoch14, d1=0.372, d2=0.403 g=1.512
+Category ship, Epoch15, d1=0.494, d2=0.825 g=1.403
+
+>Accuracy real: 61%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch16, d1=0.626, d2=0.535 g=1.583
+Category ship, Epoch17, d1=0.602, d2=0.603 g=1.372
+Category ship, Epoch18, d1=0.815, d2=0.404 g=1.404
+Category ship, Epoch19, d1=0.470, d2=0.274 g=2.077
+Category ship, Epoch20, d1=0.560, d2=0.268 g=2.206
+
+>Accuracy real: 55%, fake: 80%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch21, d1=0.514, d2=0.454 g=1.364
+Category ship, Epoch22, d1=0.336, d2=0.471 g=1.708
+Category ship, Epoch23, d1=0.380, d2=0.432 g=1.688
+Category ship, Epoch24, d1=0.533, d2=0.665 g=1.518
+Category ship, Epoch25, d1=0.235, d2=0.388 g=1.764
+
+>Accuracy real: 81%, fake: 79%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch26, d1=0.598, d2=0.317 g=1.924
+Category ship, Epoch27, d1=0.512, d2=0.489 g=1.438
+Category ship, Epoch28, d1=0.541, d2=0.695 g=1.881
+Category ship, Epoch29, d1=0.489, d2=0.319 g=1.579
+Category ship, Epoch30, d1=0.491, d2=0.397 g=1.356
+
+>Accuracy real: 77%, fake: 92%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch31, d1=0.792, d2=0.475 g=1.363
+Category ship, Epoch32, d1=0.553, d2=0.566 g=1.552
+Category ship, Epoch33, d1=0.488, d2=0.456 g=1.740
+Category ship, Epoch34, d1=0.452, d2=0.613 g=1.499
+Category ship, Epoch35, d1=0.524, d2=0.531 g=1.800
+
+>Accuracy real: 66%, fake: 98%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch36, d1=0.576, d2=0.667 g=1.583
+Category ship, Epoch37, d1=0.526, d2=0.567 g=1.422
+Category ship, Epoch38, d1=0.615, d2=0.704 g=1.483
+Category ship, Epoch39, d1=0.453, d2=0.631 g=1.440
+Category ship, Epoch40, d1=0.451, d2=0.413 g=1.537
+
+>Accuracy real: 79%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch41, d1=0.382, d2=0.439 g=1.942
+Category ship, Epoch42, d1=0.515, d2=0.519 g=1.504
+Category ship, Epoch43, d1=0.555, d2=0.398 g=1.949
+Category ship, Epoch44, d1=0.457, d2=0.478 g=1.644
+Category ship, Epoch45, d1=0.606, d2=0.515 g=1.588
+
+>Accuracy real: 72%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch46, d1=0.442, d2=0.533 g=1.351
+Category ship, Epoch47, d1=0.556, d2=0.483 g=1.455
+Category ship, Epoch48, d1=0.434, d2=0.369 g=1.661
+Category ship, Epoch49, d1=0.507, d2=0.355 g=1.785
+Category ship, Epoch50, d1=0.680, d2=0.657 g=1.760
+
+>Accuracy real: 51%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch51, d1=0.350, d2=0.407 g=1.779
+Category ship, Epoch52, d1=0.567, d2=0.567 g=1.988
+Category ship, Epoch53, d1=0.444, d2=0.416 g=1.671
+Category ship, Epoch54, d1=0.591, d2=0.358 g=1.814
+Category ship, Epoch55, d1=0.679, d2=0.359 g=1.843
+
+>Accuracy real: 77%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch56, d1=0.378, d2=0.531 g=1.430
+Category ship, Epoch57, d1=0.417, d2=0.534 g=1.762
+Category ship, Epoch58, d1=0.546, d2=0.470 g=1.348
+Category ship, Epoch59, d1=0.444, d2=0.467 g=1.754
+Category ship, Epoch60, d1=0.417, d2=0.544 g=1.715
+
+>Accuracy real: 67%, fake: 63%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch61, d1=0.638, d2=0.434 g=1.555
+Category ship, Epoch62, d1=0.506, d2=0.419 g=1.914
+Category ship, Epoch63, d1=0.617, d2=0.392 g=1.696
+Category ship, Epoch64, d1=0.514, d2=0.392 g=1.529
+Category ship, Epoch65, d1=0.591, d2=0.504 g=1.612
+
+>Accuracy real: 61%, fake: 83%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch66, d1=0.587, d2=0.423 g=1.531
+Category ship, Epoch67, d1=0.726, d2=0.643 g=1.445
+Category ship, Epoch68, d1=0.408, d2=0.549 g=1.534
+Category ship, Epoch69, d1=0.551, d2=0.472 g=1.596
+Category ship, Epoch70, d1=0.611, d2=0.483 g=1.710
+
+>Accuracy real: 61%, fake: 87%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch71, d1=0.560, d2=0.407 g=1.507
+Category ship, Epoch72, d1=0.563, d2=0.636 g=1.457
+Category ship, Epoch73, d1=0.572, d2=0.430 g=1.580
+Category ship, Epoch74, d1=0.487, d2=0.724 g=1.266
+Category ship, Epoch75, d1=0.509, d2=0.674 g=1.550
+
+>Accuracy real: 63%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch76, d1=0.776, d2=0.458 g=1.476
+Category ship, Epoch77, d1=0.608, d2=0.508 g=1.460
+Category ship, Epoch78, d1=0.610, d2=0.575 g=1.255
+Category ship, Epoch79, d1=0.622, d2=0.434 g=1.343
+Category ship, Epoch80, d1=0.542, d2=0.502 g=1.270
+
+>Accuracy real: 61%, fake: 73%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch81, d1=0.498, d2=0.552 g=1.345
+Category ship, Epoch82, d1=0.517, d2=0.619 g=1.495
+Category ship, Epoch83, d1=0.527, d2=0.625 g=1.463
+Category ship, Epoch84, d1=0.472, d2=0.632 g=1.455
+Category ship, Epoch85, d1=0.574, d2=0.517 g=1.378
+
+>Accuracy real: 74%, fake: 79%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch86, d1=0.614, d2=0.488 g=1.477
+Category ship, Epoch87, d1=0.455, d2=0.616 g=1.455
+Category ship, Epoch88, d1=0.575, d2=0.460 g=1.522
+Category ship, Epoch89, d1=0.686, d2=0.583 g=1.408
+Category ship, Epoch90, d1=0.525, d2=0.476 g=1.361
+
+>Accuracy real: 71%, fake: 78%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch91, d1=0.527, d2=0.471 g=1.580
+Category ship, Epoch92, d1=0.399, d2=0.528 g=1.580
+Category ship, Epoch93, d1=0.474, d2=0.494 g=1.332
+Category ship, Epoch94, d1=0.429, d2=0.464 g=1.422
+Category ship, Epoch95, d1=0.469, d2=0.508 g=1.458
+
+>Accuracy real: 64%, fake: 83%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category ship, Epoch96, d1=0.642, d2=0.428 g=1.704
+Category ship, Epoch97, d1=0.475, d2=0.468 g=1.538
+Category ship, Epoch98, d1=0.514, d2=0.445 g=1.428
+Category ship, Epoch99, d1=0.593, d2=0.559 g=1.423
+Category ship, Epoch100, d1=0.580, d2=0.607 g=1.590
+
+>Accuracy real: 60%, fake: 83%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.

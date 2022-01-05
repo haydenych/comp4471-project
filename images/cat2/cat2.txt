@@ -1,0 +1,179 @@
+Category automobile, Epoch1, d1=0.442, d2=0.015 g=4.912
+Category automobile, Epoch2, d1=0.506, d2=0.287 g=3.812
+Category automobile, Epoch3, d1=0.499, d2=0.370 g=1.649
+Category automobile, Epoch4, d1=0.671, d2=0.730 g=1.080
+Category automobile, Epoch5, d1=0.702, d2=0.803 g=0.872
+
+>Accuracy real: 67%, fake: 21%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch6, d1=0.388, d2=0.673 g=1.197
+Category automobile, Epoch7, d1=0.540, d2=0.700 g=1.507
+Category automobile, Epoch8, d1=0.666, d2=0.490 g=1.475
+Category automobile, Epoch9, d1=0.338, d2=0.379 g=1.696
+Category automobile, Epoch10, d1=0.807, d2=0.549 g=2.155
+
+>Accuracy real: 50%, fake: 83%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch11, d1=0.792, d2=0.200 g=2.410
+Category automobile, Epoch12, d1=0.181, d2=0.428 g=1.628
+Category automobile, Epoch13, d1=0.508, d2=0.410 g=1.911
+Category automobile, Epoch14, d1=0.195, d2=0.354 g=2.198
+Category automobile, Epoch15, d1=0.839, d2=0.175 g=2.095
+
+>Accuracy real: 79%, fake: 75%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch16, d1=0.478, d2=0.341 g=1.751
+Category automobile, Epoch17, d1=0.714, d2=0.392 g=1.709
+Category automobile, Epoch18, d1=0.150, d2=0.256 g=2.019
+Category automobile, Epoch19, d1=0.381, d2=0.283 g=2.154
+Category automobile, Epoch20, d1=0.315, d2=0.672 g=4.626
+
+>Accuracy real: 76%, fake: 100%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch21, d1=0.391, d2=0.418 g=2.675
+Category automobile, Epoch22, d1=0.447, d2=0.270 g=2.682
+Category automobile, Epoch23, d1=0.408, d2=0.402 g=2.554
+Category automobile, Epoch24, d1=0.964, d2=0.562 g=1.612
+Category automobile, Epoch25, d1=1.015, d2=0.988 g=3.958
+
+>Accuracy real: 22%, fake: 100%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch26, d1=0.648, d2=0.805 g=2.106
+Category automobile, Epoch27, d1=0.314, d2=0.267 g=2.358
+Category automobile, Epoch28, d1=0.232, d2=0.422 g=2.270
+Category automobile, Epoch29, d1=0.482, d2=0.579 g=3.331
+Category automobile, Epoch30, d1=0.345, d2=0.384 g=2.540
+
+>Accuracy real: 69%, fake: 76%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch31, d1=0.357, d2=0.489 g=2.796
+Category automobile, Epoch32, d1=0.629, d2=0.463 g=2.027
+Category automobile, Epoch33, d1=0.445, d2=0.418 g=3.101
+Category automobile, Epoch34, d1=0.449, d2=0.312 g=2.381
+Category automobile, Epoch35, d1=0.586, d2=0.518 g=1.753
+
+>Accuracy real: 78%, fake: 71%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch36, d1=0.458, d2=0.320 g=2.361
+Category automobile, Epoch37, d1=0.394, d2=0.497 g=2.037
+Category automobile, Epoch38, d1=0.367, d2=0.378 g=2.111
+Category automobile, Epoch39, d1=0.272, d2=0.353 g=1.977
+Category automobile, Epoch40, d1=0.427, d2=0.417 g=2.094
+
+>Accuracy real: 79%, fake: 78%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch41, d1=0.598, d2=0.381 g=1.978
+Category automobile, Epoch42, d1=0.572, d2=0.442 g=1.711
+Category automobile, Epoch43, d1=0.450, d2=0.418 g=1.834
+Category automobile, Epoch44, d1=0.441, d2=0.497 g=1.834
+Category automobile, Epoch45, d1=0.566, d2=0.410 g=1.932
+
+>Accuracy real: 80%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch46, d1=0.419, d2=0.436 g=1.855
+Category automobile, Epoch47, d1=0.469, d2=0.304 g=1.914
+Category automobile, Epoch48, d1=0.508, d2=0.405 g=1.726
+Category automobile, Epoch49, d1=0.618, d2=0.451 g=1.599
+Category automobile, Epoch50, d1=0.435, d2=0.540 g=1.699
+
+>Accuracy real: 73%, fake: 77%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch51, d1=0.456, d2=0.441 g=1.933
+Category automobile, Epoch52, d1=0.558, d2=0.509 g=1.539
+Category automobile, Epoch53, d1=0.496, d2=0.465 g=1.598
+Category automobile, Epoch54, d1=0.609, d2=0.476 g=2.209
+Category automobile, Epoch55, d1=0.631, d2=0.451 g=1.737
+
+>Accuracy real: 71%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch56, d1=0.477, d2=0.410 g=1.660
+Category automobile, Epoch57, d1=0.510, d2=0.512 g=1.677
+Category automobile, Epoch58, d1=0.405, d2=0.337 g=1.816
+Category automobile, Epoch59, d1=0.583, d2=0.510 g=1.534
+Category automobile, Epoch60, d1=0.510, d2=0.417 g=1.561
+
+>Accuracy real: 73%, fake: 89%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch61, d1=0.455, d2=0.396 g=1.584
+Category automobile, Epoch62, d1=0.590, d2=0.478 g=1.517
+Category automobile, Epoch63, d1=0.507, d2=0.478 g=1.838
+Category automobile, Epoch64, d1=0.565, d2=0.311 g=1.820
+Category automobile, Epoch65, d1=0.512, d2=0.378 g=1.928
+
+>Accuracy real: 62%, fake: 89%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch66, d1=0.608, d2=0.548 g=1.877
+Category automobile, Epoch67, d1=0.451, d2=0.391 g=1.517
+Category automobile, Epoch68, d1=0.588, d2=0.699 g=1.903
+Category automobile, Epoch69, d1=0.483, d2=0.541 g=2.037
+Category automobile, Epoch70, d1=0.604, d2=0.482 g=1.949
+
+>Accuracy real: 79%, fake: 86%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch71, d1=0.321, d2=0.517 g=1.985
+Category automobile, Epoch72, d1=0.422, d2=0.398 g=2.037
+Category automobile, Epoch73, d1=0.541, d2=0.493 g=2.003
+Category automobile, Epoch74, d1=0.600, d2=0.648 g=1.729
+Category automobile, Epoch75, d1=0.482, d2=0.479 g=1.630
+
+>Accuracy real: 75%, fake: 74%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch76, d1=0.384, d2=0.375 g=2.127
+Category automobile, Epoch77, d1=0.413, d2=0.532 g=1.666
+Category automobile, Epoch78, d1=0.674, d2=0.502 g=1.761
+Category automobile, Epoch79, d1=0.389, d2=0.358 g=2.035
+Category automobile, Epoch80, d1=0.546, d2=0.522 g=1.883
+
+>Accuracy real: 75%, fake: 80%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch81, d1=0.378, d2=0.362 g=1.900
+Category automobile, Epoch82, d1=0.492, d2=0.462 g=1.947
+Category automobile, Epoch83, d1=0.490, d2=0.375 g=1.894
+Category automobile, Epoch84, d1=0.451, d2=0.547 g=1.757
+Category automobile, Epoch85, d1=0.395, d2=0.482 g=1.677
+
+>Accuracy real: 79%, fake: 77%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch86, d1=0.418, d2=0.376 g=1.808
+Category automobile, Epoch87, d1=0.355, d2=0.477 g=2.201
+Category automobile, Epoch88, d1=0.565, d2=0.433 g=1.916
+Category automobile, Epoch89, d1=0.332, d2=0.543 g=1.980
+Category automobile, Epoch90, d1=0.405, d2=0.458 g=1.847
+
+>Accuracy real: 75%, fake: 92%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch91, d1=0.505, d2=0.489 g=1.695
+Category automobile, Epoch92, d1=0.491, d2=0.421 g=1.963
+Category automobile, Epoch93, d1=0.558, d2=0.495 g=1.850
+Category automobile, Epoch94, d1=0.349, d2=0.400 g=2.020
+Category automobile, Epoch95, d1=0.469, d2=0.581 g=1.930
+
+>Accuracy real: 73%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category automobile, Epoch96, d1=0.446, d2=0.425 g=1.915
+Category automobile, Epoch97, d1=0.446, d2=0.412 g=2.015
+Category automobile, Epoch98, d1=0.351, d2=0.379 g=2.041
+Category automobile, Epoch99, d1=0.298, d2=0.616 g=2.023
+Category automobile, Epoch100, d1=0.470, d2=0.524 g=1.979
+
+>Accuracy real: 72%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.

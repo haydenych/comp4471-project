@@ -1,0 +1,179 @@
+Category horse, Epoch1, d1=0.331, d2=0.129 g=3.281
+Category horse, Epoch2, d1=0.309, d2=0.083 g=3.261
+Category horse, Epoch3, d1=0.325, d2=0.069 g=3.116
+Category horse, Epoch4, d1=0.211, d2=0.190 g=2.877
+Category horse, Epoch5, d1=0.558, d2=0.534 g=1.301
+
+>Accuracy real: 78%, fake: 95%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch6, d1=0.221, d2=0.593 g=2.605
+Category horse, Epoch7, d1=0.485, d2=0.535 g=1.178
+Category horse, Epoch8, d1=0.788, d2=0.816 g=1.199
+Category horse, Epoch9, d1=0.742, d2=0.595 g=1.263
+Category horse, Epoch10, d1=0.676, d2=0.668 g=1.248
+
+>Accuracy real: 42%, fake: 68%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch11, d1=0.418, d2=0.463 g=1.751
+Category horse, Epoch12, d1=0.430, d2=0.304 g=1.989
+Category horse, Epoch13, d1=0.716, d2=0.336 g=2.493
+Category horse, Epoch14, d1=0.651, d2=0.421 g=1.964
+Category horse, Epoch15, d1=0.602, d2=0.508 g=1.602
+
+>Accuracy real: 70%, fake: 84%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch16, d1=0.273, d2=0.423 g=1.880
+Category horse, Epoch17, d1=0.521, d2=0.392 g=1.970
+Category horse, Epoch18, d1=0.303, d2=0.292 g=1.800
+Category horse, Epoch19, d1=0.702, d2=0.459 g=1.575
+Category horse, Epoch20, d1=0.546, d2=0.442 g=1.987
+
+>Accuracy real: 80%, fake: 89%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch21, d1=0.334, d2=0.220 g=2.625
+Category horse, Epoch22, d1=0.157, d2=0.538 g=2.156
+Category horse, Epoch23, d1=0.495, d2=0.330 g=2.571
+Category horse, Epoch24, d1=0.640, d2=0.518 g=1.480
+Category horse, Epoch25, d1=0.345, d2=0.366 g=1.623
+
+>Accuracy real: 81%, fake: 83%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch26, d1=0.706, d2=0.656 g=2.778
+Category horse, Epoch27, d1=0.583, d2=0.458 g=1.864
+Category horse, Epoch28, d1=0.566, d2=0.317 g=1.840
+Category horse, Epoch29, d1=0.399, d2=0.362 g=1.704
+Category horse, Epoch30, d1=0.706, d2=0.278 g=2.248
+
+>Accuracy real: 65%, fake: 89%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch31, d1=0.599, d2=0.424 g=1.738
+Category horse, Epoch32, d1=0.479, d2=0.328 g=2.106
+Category horse, Epoch33, d1=0.456, d2=0.280 g=1.859
+Category horse, Epoch34, d1=0.492, d2=0.396 g=2.033
+Category horse, Epoch35, d1=0.401, d2=0.284 g=2.161
+
+>Accuracy real: 77%, fake: 90%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch36, d1=0.368, d2=0.456 g=2.387
+Category horse, Epoch37, d1=0.570, d2=0.533 g=2.295
+Category horse, Epoch38, d1=0.417, d2=0.548 g=1.682
+Category horse, Epoch39, d1=0.401, d2=0.496 g=1.931
+Category horse, Epoch40, d1=0.569, d2=0.356 g=2.232
+
+>Accuracy real: 71%, fake: 82%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch41, d1=0.495, d2=0.388 g=1.680
+Category horse, Epoch42, d1=0.673, d2=0.488 g=1.529
+Category horse, Epoch43, d1=0.567, d2=0.409 g=1.629
+Category horse, Epoch44, d1=0.693, d2=0.706 g=2.319
+Category horse, Epoch45, d1=0.526, d2=0.430 g=1.758
+
+>Accuracy real: 77%, fake: 87%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch46, d1=0.597, d2=0.248 g=1.893
+Category horse, Epoch47, d1=0.506, d2=0.401 g=1.735
+Category horse, Epoch48, d1=0.443, d2=0.514 g=1.537
+Category horse, Epoch49, d1=0.560, d2=0.399 g=1.625
+Category horse, Epoch50, d1=0.499, d2=0.573 g=1.714
+
+>Accuracy real: 75%, fake: 69%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch51, d1=0.321, d2=0.386 g=1.757
+Category horse, Epoch52, d1=0.456, d2=0.407 g=1.630
+Category horse, Epoch53, d1=0.472, d2=0.380 g=1.732
+Category horse, Epoch54, d1=0.474, d2=0.480 g=1.840
+Category horse, Epoch55, d1=0.456, d2=0.595 g=1.800
+
+>Accuracy real: 68%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch56, d1=0.485, d2=0.380 g=1.775
+Category horse, Epoch57, d1=0.480, d2=0.330 g=1.650
+Category horse, Epoch58, d1=0.457, d2=0.479 g=1.726
+Category horse, Epoch59, d1=0.463, d2=0.392 g=1.657
+Category horse, Epoch60, d1=0.417, d2=0.364 g=1.830
+
+>Accuracy real: 75%, fake: 89%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch61, d1=0.499, d2=0.383 g=1.905
+Category horse, Epoch62, d1=0.557, d2=0.365 g=1.675
+Category horse, Epoch63, d1=0.434, d2=0.492 g=1.749
+Category horse, Epoch64, d1=0.612, d2=0.589 g=1.646
+Category horse, Epoch65, d1=0.585, d2=0.450 g=1.688
+
+>Accuracy real: 73%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch66, d1=0.693, d2=0.421 g=1.797
+Category horse, Epoch67, d1=0.538, d2=0.420 g=1.483
+Category horse, Epoch68, d1=0.581, d2=0.361 g=1.670
+Category horse, Epoch69, d1=0.456, d2=0.634 g=2.111
+Category horse, Epoch70, d1=0.377, d2=0.507 g=1.750
+
+>Accuracy real: 63%, fake: 87%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch71, d1=0.389, d2=0.585 g=1.961
+Category horse, Epoch72, d1=0.368, d2=0.508 g=1.766
+Category horse, Epoch73, d1=0.573, d2=0.284 g=1.698
+Category horse, Epoch74, d1=0.475, d2=0.423 g=1.781
+Category horse, Epoch75, d1=0.587, d2=0.547 g=1.874
+
+>Accuracy real: 69%, fake: 87%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch76, d1=0.467, d2=0.461 g=1.664
+Category horse, Epoch77, d1=0.572, d2=0.321 g=1.865
+Category horse, Epoch78, d1=0.523, d2=0.608 g=1.593
+Category horse, Epoch79, d1=0.530, d2=0.571 g=1.720
+Category horse, Epoch80, d1=0.409, d2=0.598 g=1.644
+
+>Accuracy real: 67%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch81, d1=0.667, d2=0.484 g=1.680
+Category horse, Epoch82, d1=0.511, d2=0.506 g=1.642
+Category horse, Epoch83, d1=0.642, d2=0.572 g=1.706
+Category horse, Epoch84, d1=0.640, d2=0.369 g=1.758
+Category horse, Epoch85, d1=0.419, d2=0.522 g=1.757
+
+>Accuracy real: 67%, fake: 87%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch86, d1=0.404, d2=0.372 g=1.713
+Category horse, Epoch87, d1=0.319, d2=0.356 g=2.012
+Category horse, Epoch88, d1=0.489, d2=0.512 g=1.783
+Category horse, Epoch89, d1=0.528, d2=0.497 g=1.963
+Category horse, Epoch90, d1=0.479, d2=0.396 g=1.941
+
+>Accuracy real: 68%, fake: 90%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch91, d1=0.472, d2=0.504 g=2.048
+Category horse, Epoch92, d1=0.506, d2=0.415 g=1.687
+Category horse, Epoch93, d1=0.470, d2=0.437 g=1.648
+Category horse, Epoch94, d1=0.455, d2=0.361 g=1.624
+Category horse, Epoch95, d1=0.419, d2=0.457 g=2.060
+
+>Accuracy real: 76%, fake: 86%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category horse, Epoch96, d1=0.380, d2=0.558 g=2.002
+Category horse, Epoch97, d1=0.462, d2=0.466 g=1.878
+Category horse, Epoch98, d1=0.537, d2=0.462 g=1.842
+Category horse, Epoch99, d1=0.383, d2=0.346 g=1.911
+Category horse, Epoch100, d1=0.425, d2=0.552 g=1.705
+
+>Accuracy real: 71%, fake: 87%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.

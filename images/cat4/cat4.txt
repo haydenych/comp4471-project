@@ -1,0 +1,179 @@
+Category cat, Epoch1, d1=0.063, d2=1.500 g=3.596
+Category cat, Epoch2, d1=0.067, d2=0.105 g=3.195
+Category cat, Epoch3, d1=0.828, d2=0.197 g=1.958
+Category cat, Epoch4, d1=0.258, d2=0.160 g=2.511
+Category cat, Epoch5, d1=0.321, d2=0.179 g=2.107
+
+>Accuracy real: 82%, fake: 100%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch6, d1=0.206, d2=0.212 g=2.816
+Category cat, Epoch7, d1=0.437, d2=0.086 g=3.016
+Category cat, Epoch8, d1=0.695, d2=0.696 g=2.468
+Category cat, Epoch9, d1=0.662, d2=0.582 g=1.187
+Category cat, Epoch10, d1=0.531, d2=0.484 g=1.412
+
+>Accuracy real: 78%, fake: 89%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch11, d1=0.727, d2=0.785 g=1.335
+Category cat, Epoch12, d1=0.548, d2=0.579 g=1.309
+Category cat, Epoch13, d1=0.528, d2=0.514 g=1.185
+Category cat, Epoch14, d1=0.528, d2=0.497 g=1.472
+Category cat, Epoch15, d1=0.651, d2=0.438 g=1.389
+
+>Accuracy real: 59%, fake: 78%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch16, d1=0.478, d2=0.615 g=1.096
+Category cat, Epoch17, d1=0.643, d2=0.587 g=1.301
+Category cat, Epoch18, d1=0.488, d2=0.662 g=1.662
+Category cat, Epoch19, d1=0.671, d2=0.423 g=1.865
+Category cat, Epoch20, d1=0.578, d2=0.561 g=1.502
+
+>Accuracy real: 69%, fake: 83%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch21, d1=0.710, d2=0.473 g=1.619
+Category cat, Epoch22, d1=0.917, d2=0.607 g=1.934
+Category cat, Epoch23, d1=0.553, d2=0.633 g=1.302
+Category cat, Epoch24, d1=0.592, d2=0.435 g=1.252
+Category cat, Epoch25, d1=0.467, d2=0.579 g=1.602
+
+>Accuracy real: 70%, fake: 83%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch26, d1=0.523, d2=0.601 g=1.372
+Category cat, Epoch27, d1=0.557, d2=0.675 g=1.668
+Category cat, Epoch28, d1=0.609, d2=0.476 g=1.486
+Category cat, Epoch29, d1=0.578, d2=0.422 g=1.682
+Category cat, Epoch30, d1=0.359, d2=0.416 g=2.159
+
+>Accuracy real: 77%, fake: 87%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch31, d1=0.452, d2=0.614 g=1.673
+Category cat, Epoch32, d1=0.476, d2=0.456 g=1.363
+Category cat, Epoch33, d1=0.465, d2=0.398 g=1.432
+Category cat, Epoch34, d1=0.537, d2=0.537 g=1.346
+Category cat, Epoch35, d1=0.361, d2=0.521 g=1.882
+
+>Accuracy real: 76%, fake: 91%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch36, d1=0.385, d2=0.476 g=1.753
+Category cat, Epoch37, d1=0.393, d2=0.518 g=1.675
+Category cat, Epoch38, d1=0.320, d2=0.456 g=1.863
+Category cat, Epoch39, d1=0.631, d2=0.487 g=1.366
+Category cat, Epoch40, d1=0.456, d2=0.616 g=1.685
+
+>Accuracy real: 71%, fake: 70%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch41, d1=0.401, d2=0.423 g=2.149
+Category cat, Epoch42, d1=0.637, d2=0.533 g=1.640
+Category cat, Epoch43, d1=0.423, d2=0.811 g=2.513
+Category cat, Epoch44, d1=0.286, d2=0.658 g=2.102
+Category cat, Epoch45, d1=0.630, d2=0.378 g=1.533
+
+>Accuracy real: 66%, fake: 84%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch46, d1=0.678, d2=0.513 g=1.569
+Category cat, Epoch47, d1=0.409, d2=0.434 g=1.703
+Category cat, Epoch48, d1=0.805, d2=0.527 g=1.929
+Category cat, Epoch49, d1=0.523, d2=0.460 g=1.473
+Category cat, Epoch50, d1=0.550, d2=0.629 g=1.632
+
+>Accuracy real: 75%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch51, d1=0.366, d2=0.505 g=1.660
+Category cat, Epoch52, d1=0.517, d2=0.525 g=1.472
+Category cat, Epoch53, d1=0.518, d2=0.657 g=1.308
+Category cat, Epoch54, d1=0.651, d2=0.573 g=1.294
+Category cat, Epoch55, d1=0.439, d2=0.498 g=1.659
+
+>Accuracy real: 71%, fake: 75%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch56, d1=0.595, d2=0.438 g=1.279
+Category cat, Epoch57, d1=0.621, d2=0.701 g=1.842
+Category cat, Epoch58, d1=0.628, d2=0.573 g=1.422
+Category cat, Epoch59, d1=0.507, d2=0.447 g=1.552
+Category cat, Epoch60, d1=0.603, d2=0.368 g=1.726
+
+>Accuracy real: 65%, fake: 92%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch61, d1=0.570, d2=0.593 g=1.359
+Category cat, Epoch62, d1=0.360, d2=0.437 g=1.393
+Category cat, Epoch63, d1=0.668, d2=0.478 g=1.606
+Category cat, Epoch64, d1=0.604, d2=0.503 g=1.312
+Category cat, Epoch65, d1=0.475, d2=0.578 g=1.559
+
+>Accuracy real: 71%, fake: 83%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch66, d1=0.549, d2=0.624 g=1.356
+Category cat, Epoch67, d1=0.615, d2=0.480 g=1.495
+Category cat, Epoch68, d1=0.572, d2=0.440 g=1.507
+Category cat, Epoch69, d1=0.537, d2=0.539 g=1.368
+Category cat, Epoch70, d1=0.424, d2=0.728 g=1.427
+
+>Accuracy real: 75%, fake: 80%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch71, d1=0.634, d2=0.796 g=1.848
+Category cat, Epoch72, d1=0.511, d2=0.472 g=1.421
+Category cat, Epoch73, d1=0.544, d2=0.425 g=1.358
+Category cat, Epoch74, d1=0.614, d2=0.552 g=1.481
+Category cat, Epoch75, d1=0.688, d2=0.523 g=1.415
+
+>Accuracy real: 67%, fake: 79%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch76, d1=0.504, d2=0.569 g=1.642
+Category cat, Epoch77, d1=0.575, d2=0.506 g=1.498
+Category cat, Epoch78, d1=0.534, d2=0.480 g=1.542
+Category cat, Epoch79, d1=0.500, d2=0.726 g=1.511
+Category cat, Epoch80, d1=0.456, d2=0.483 g=1.556
+
+>Accuracy real: 69%, fake: 74%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch81, d1=0.668, d2=0.520 g=1.451
+Category cat, Epoch82, d1=0.546, d2=0.577 g=1.393
+Category cat, Epoch83, d1=0.525, d2=0.516 g=1.451
+Category cat, Epoch84, d1=0.492, d2=0.412 g=1.538
+Category cat, Epoch85, d1=0.504, d2=0.413 g=1.976
+
+>Accuracy real: 69%, fake: 84%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch86, d1=0.559, d2=0.594 g=1.346
+Category cat, Epoch87, d1=0.567, d2=0.542 g=1.447
+Category cat, Epoch88, d1=0.565, d2=0.417 g=1.577
+Category cat, Epoch89, d1=0.532, d2=0.479 g=1.351
+Category cat, Epoch90, d1=0.654, d2=0.529 g=1.486
+
+>Accuracy real: 74%, fake: 79%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch91, d1=0.676, d2=0.483 g=1.568
+Category cat, Epoch92, d1=0.607, d2=0.561 g=1.700
+Category cat, Epoch93, d1=0.450, d2=0.436 g=1.625
+Category cat, Epoch94, d1=0.646, d2=0.446 g=1.637
+Category cat, Epoch95, d1=0.590, d2=0.368 g=1.556
+
+>Accuracy real: 64%, fake: 80%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category cat, Epoch96, d1=0.513, d2=0.502 g=1.400
+Category cat, Epoch97, d1=0.528, d2=0.461 g=1.624
+Category cat, Epoch98, d1=0.491, d2=0.387 g=1.690
+Category cat, Epoch99, d1=0.437, d2=0.448 g=1.511
+Category cat, Epoch100, d1=0.520, d2=0.619 g=1.855
+
+>Accuracy real: 69%, fake: 79%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.

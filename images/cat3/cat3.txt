@@ -1,0 +1,179 @@
+Category bird, Epoch1, d1=0.394, d2=0.000 g=9.046
+Category bird, Epoch2, d1=0.261, d2=0.046 g=4.032
+Category bird, Epoch3, d1=0.615, d2=0.089 g=3.093
+Category bird, Epoch4, d1=0.289, d2=0.406 g=2.059
+Category bird, Epoch5, d1=0.169, d2=0.406 g=1.789
+
+>Accuracy real: 92%, fake: 62%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch6, d1=0.509, d2=0.742 g=0.932
+Category bird, Epoch7, d1=0.483, d2=0.707 g=0.892
+Category bird, Epoch8, d1=0.616, d2=0.849 g=0.897
+Category bird, Epoch9, d1=0.778, d2=0.901 g=0.856
+Category bird, Epoch10, d1=0.503, d2=1.096 g=0.830
+
+>Accuracy real: 64%, fake: 27%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch11, d1=0.498, d2=0.560 g=1.368
+Category bird, Epoch12, d1=0.434, d2=0.492 g=1.178
+Category bird, Epoch13, d1=0.730, d2=0.731 g=1.120
+Category bird, Epoch14, d1=0.685, d2=0.754 g=1.091
+Category bird, Epoch15, d1=0.424, d2=0.463 g=1.146
+
+>Accuracy real: 85%, fake: 96%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch16, d1=0.593, d2=0.352 g=1.827
+Category bird, Epoch17, d1=0.287, d2=0.323 g=1.647
+Category bird, Epoch18, d1=0.687, d2=0.499 g=2.158
+Category bird, Epoch19, d1=0.334, d2=0.413 g=2.372
+Category bird, Epoch20, d1=0.881, d2=0.367 g=1.334
+
+>Accuracy real: 53%, fake: 100%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch21, d1=0.291, d2=0.325 g=2.735
+Category bird, Epoch22, d1=0.677, d2=0.352 g=1.498
+Category bird, Epoch23, d1=1.432, d2=0.355 g=1.822
+Category bird, Epoch24, d1=0.312, d2=0.364 g=2.066
+Category bird, Epoch25, d1=0.639, d2=0.616 g=1.226
+
+>Accuracy real: 63%, fake: 67%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch26, d1=0.500, d2=0.494 g=1.195
+Category bird, Epoch27, d1=0.445, d2=0.476 g=1.526
+Category bird, Epoch28, d1=0.657, d2=0.446 g=1.685
+Category bird, Epoch29, d1=0.588, d2=0.498 g=1.850
+Category bird, Epoch30, d1=0.515, d2=0.502 g=1.659
+
+>Accuracy real: 75%, fake: 97%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch31, d1=0.560, d2=0.374 g=1.898
+Category bird, Epoch32, d1=0.813, d2=0.485 g=1.488
+Category bird, Epoch33, d1=0.496, d2=0.471 g=1.376
+Category bird, Epoch34, d1=0.627, d2=0.472 g=1.547
+Category bird, Epoch35, d1=0.503, d2=0.425 g=1.775
+
+>Accuracy real: 72%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch36, d1=0.583, d2=0.507 g=1.712
+Category bird, Epoch37, d1=0.430, d2=0.695 g=1.623
+Category bird, Epoch38, d1=0.568, d2=0.550 g=1.506
+Category bird, Epoch39, d1=0.581, d2=0.440 g=2.164
+Category bird, Epoch40, d1=0.509, d2=0.428 g=1.822
+
+>Accuracy real: 67%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch41, d1=0.407, d2=0.567 g=1.727
+Category bird, Epoch42, d1=0.614, d2=0.443 g=2.012
+Category bird, Epoch43, d1=0.454, d2=0.407 g=1.629
+Category bird, Epoch44, d1=0.585, d2=0.389 g=1.843
+Category bird, Epoch45, d1=0.283, d2=0.312 g=1.899
+
+>Accuracy real: 73%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch46, d1=0.530, d2=0.446 g=1.540
+Category bird, Epoch47, d1=0.474, d2=0.603 g=1.367
+Category bird, Epoch48, d1=0.572, d2=0.422 g=1.636
+Category bird, Epoch49, d1=0.555, d2=0.522 g=1.432
+Category bird, Epoch50, d1=0.477, d2=0.560 g=1.547
+
+>Accuracy real: 60%, fake: 84%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch51, d1=0.629, d2=0.587 g=1.367
+Category bird, Epoch52, d1=0.585, d2=0.519 g=1.403
+Category bird, Epoch53, d1=0.450, d2=0.595 g=1.355
+Category bird, Epoch54, d1=0.440, d2=0.363 g=1.709
+Category bird, Epoch55, d1=0.613, d2=0.720 g=1.296
+
+>Accuracy real: 74%, fake: 67%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch56, d1=0.413, d2=0.455 g=1.488
+Category bird, Epoch57, d1=0.671, d2=0.584 g=1.327
+Category bird, Epoch58, d1=0.555, d2=0.659 g=1.314
+Category bird, Epoch59, d1=0.486, d2=0.494 g=1.380
+Category bird, Epoch60, d1=0.494, d2=0.440 g=1.353
+
+>Accuracy real: 64%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch61, d1=0.485, d2=0.560 g=1.401
+Category bird, Epoch62, d1=0.467, d2=0.684 g=1.444
+Category bird, Epoch63, d1=0.482, d2=0.672 g=1.563
+Category bird, Epoch64, d1=0.522, d2=0.490 g=1.416
+Category bird, Epoch65, d1=0.556, d2=0.444 g=1.574
+
+>Accuracy real: 62%, fake: 76%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch66, d1=0.503, d2=0.413 g=1.573
+Category bird, Epoch67, d1=0.551, d2=0.459 g=1.405
+Category bird, Epoch68, d1=0.592, d2=0.652 g=1.521
+Category bird, Epoch69, d1=0.603, d2=0.583 g=1.406
+Category bird, Epoch70, d1=0.573, d2=0.486 g=1.350
+
+>Accuracy real: 67%, fake: 92%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch71, d1=0.575, d2=0.469 g=1.542
+Category bird, Epoch72, d1=0.620, d2=0.676 g=1.270
+Category bird, Epoch73, d1=0.606, d2=0.538 g=1.303
+Category bird, Epoch74, d1=0.538, d2=0.485 g=1.301
+Category bird, Epoch75, d1=0.548, d2=0.590 g=1.359
+
+>Accuracy real: 65%, fake: 72%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch76, d1=0.588, d2=0.484 g=1.368
+Category bird, Epoch77, d1=0.584, d2=0.556 g=1.326
+Category bird, Epoch78, d1=0.566, d2=0.634 g=1.305
+Category bird, Epoch79, d1=0.591, d2=0.600 g=1.357
+Category bird, Epoch80, d1=0.557, d2=0.442 g=1.357
+
+>Accuracy real: 74%, fake: 87%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch81, d1=0.550, d2=0.504 g=1.292
+Category bird, Epoch82, d1=0.506, d2=0.489 g=1.726
+Category bird, Epoch83, d1=0.433, d2=0.533 g=1.432
+Category bird, Epoch84, d1=0.527, d2=0.516 g=1.725
+Category bird, Epoch85, d1=0.591, d2=0.479 g=1.271
+
+>Accuracy real: 69%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch86, d1=0.619, d2=0.505 g=1.502
+Category bird, Epoch87, d1=0.552, d2=0.605 g=1.481
+Category bird, Epoch88, d1=0.505, d2=0.563 g=1.420
+Category bird, Epoch89, d1=0.523, d2=0.721 g=1.524
+Category bird, Epoch90, d1=0.445, d2=0.521 g=1.424
+
+>Accuracy real: 68%, fake: 85%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch91, d1=0.542, d2=0.371 g=1.639
+Category bird, Epoch92, d1=0.641, d2=0.409 g=1.567
+Category bird, Epoch93, d1=0.448, d2=0.515 g=1.532
+Category bird, Epoch94, d1=0.366, d2=0.445 g=1.677
+Category bird, Epoch95, d1=0.488, d2=0.440 g=1.593
+
+>Accuracy real: 79%, fake: 88%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+
+Category bird, Epoch96, d1=0.513, d2=0.506 g=1.531
+Category bird, Epoch97, d1=0.552, d2=0.428 g=1.580
+Category bird, Epoch98, d1=0.597, d2=0.421 g=1.636
+Category bird, Epoch99, d1=0.651, d2=0.435 g=1.797
+Category bird, Epoch100, d1=0.555, d2=0.551 g=1.579
+
+>Accuracy real: 67%, fake: 81%
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
